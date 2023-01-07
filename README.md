@@ -4,9 +4,9 @@ This is a test AI project to distinguish the difference between images of cats a
 
 ## Getting started, what do we need todo?
 
-1. Collect a dataset of images of cats and dogs. You will need a large number of images to train your AI model accurately.
+1. [Collect a dataset of images of cats and dogs. You will need a large number of images to train your AI model accurately.](#collecting-datasets)
 
-2. Preprocess the images by resizing them and converting them to a uniform format (such as JPEG).
+2. [Preprocess the images by resizing them and converting them to a uniform format (such as JPEG).](#preprocess-and-resize-images-into-a-uniform-format)
 
 3. Split the dataset into a training set and a test set. You will use the training set to train your AI model and the test set to evaluate its performance.
 
@@ -36,7 +36,7 @@ This is a test AI project to distinguish the difference between images of cats a
 
 ---
 
-## Preprocess and resize images into a uniform format
+## Preprocess and resize images into a uniform format.
 
 **There are several tools and libraries that you can use to preprocess images and resize them into a uniform format in Node.js:**
 
